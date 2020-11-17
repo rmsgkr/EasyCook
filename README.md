@@ -21,12 +21,12 @@
 + API : JavaMail, OpenWeather, Kakao, Naver, i'mport
 
 ### E-R Diagram
-![ERD](https://user-images.githubusercontent.com/48157259/98438808-fefb6580-212f-11eb-9c95-193b086c5f43.jpg)
+![ERD](https://user-images.githubusercontent.com/69949473/99359436-6a90c000-28f2-11eb-935b-a8fc6b64f964.png)
 
 ### 프로젝트 설명
 
-#### Login, Signup
-![login, singup](https://user-images.githubusercontent.com/48157259/98440432-ff016280-213b-11eb-9db0-61ca820cb9e6.png)
+#### index
+![image](https://user-images.githubusercontent.com/69949473/99359535-94e27d80-28f2-11eb-9bd1-b1f86bd0d389.png)
 > 회원가입 화면에서는 AJAX를 사용하여 아이디 중복체크와 비밀번호 일치여부, 비밀번호 자리수 제한 등을 구현하였고 다음주소 API를 사용하여 우편번호와 주소를 가져왔습니다. 회원가입을 하면 입력한 이메일로 인증링크를 보내 인증을 한 회원만 로그인을 가능하도록 하였습니다.
 <br>
 
