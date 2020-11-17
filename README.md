@@ -4,19 +4,21 @@
 
 ### 프로젝트 요약
 + 사이트명 : easycook (이지쿡)
-+ 프로젝트 기간 : 2020.10.05 ~ 2020.11.04 (4주)
++ 프로젝트 기간 : 2020.09.28 ~ 2020.11.04 (38일)
 + 인원 : 6명
-+ 나의 기여도 : 45% (팀장)
-+ 구현 담당 기능 : 데이터베이스 설계&구현, 프로젝트 빌드, 인증과정(회원가입&로그인, 아이디&비밀번호 찾기, 회원정보수정&탈퇴, 이메일인증), 관리자페이지(회원관리, 상품관리, 주문관리, 게시물&쿠폰관리 CRUD), 오늘딜, 리뷰작성 및 총괄
++ 구현 담당 기능 : 프로젝트 빌드, 데이터베이스 설계&구현, 전체/상세 상품, 장바구니, 위시리스트, 주문, 결제시스템 구현
 
 ### 개발환경
 + 언어 : JAVA 8 (MVC Model 2)
 + 프레임워크 : Spring Framework 4
 + 빌드 : Maven
-+ Frond-end : HTML, CSS, JavaScript, AJAX
++ 서버 : Apatch Tomcat 9.0
++ 개발툴 : Eclipse
++ Frond-end : HTML5, CSS3, JavaScript(jquery, ajax), Bootstrap
 + Back-end : Jsp&Servlet
 + DB : Oracle, Mybatis, JDBC
-+ 형상관리 : git, Github
++ 형상관리 : Git, Github
++ API : JavaMail, OpenWeather, Kakao, Naver, i'mport
 
 ### E-R Diagram
 ![ERD](https://user-images.githubusercontent.com/48157259/98438808-fefb6580-212f-11eb-9c95-193b086c5f43.jpg)
